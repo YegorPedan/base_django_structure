@@ -1,1 +1,1 @@
-Bse django structure
+Base django structure
